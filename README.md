@@ -53,11 +53,11 @@ A Quick Example
 ================
 Here’s the kind of insight you’ll get:
 
-Year  	Month 	Revenue	  Orders
+Year  |	Month |	Revenue	 | Orders
 ---------------------------------
-2024  	Jan	    52,000	  1,200
-2024  	Feb	    47,500	  1,050
-2024	  Mar	    61,200	  1,340
+2024  |	Jan	  |  52,000	 | 1,200
+2024  |	Feb	  |  47,500	 | 1,050
+2024	|  Mar	|  61,200	 | 1,340
 
 In this example, March clearly took the crown — maybe because of a product launch or seasonal event
 
